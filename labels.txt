@@ -1,0 +1,3 @@
+0 Human
+1 Monkey
+2 Wild Boar
